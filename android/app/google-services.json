@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528228304793",
+    "firebase_url": "https://ggd-mart-default-rtdb.firebaseio.com",
+    "project_id": "ggd-mart",
+    "storage_bucket": "ggd-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528228304793:android:221b1d151afc25900fb508",
+        "android_client_info": {
+          "package_name": "com.ggd.ggdmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528228304793-e0vvlrn384dcfg1mqs53m91ppacqtf94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ggd.ggdmart",
+            "certificate_hash": "aad6792f9e103038bf75dd0394edb203b2f6a047"
+          }
+        },
+        {
+          "client_id": "528228304793-o8v1odp6m7dbcdeonfth8o1d5est9hs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexo0Ge9l_8y958uSPMVF-gnDeHGpsEmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528228304793-o8v1odp6m7dbcdeonfth8o1d5est9hs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
